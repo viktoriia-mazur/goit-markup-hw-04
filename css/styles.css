@@ -371,7 +371,6 @@ body {
     justify-content: center;
     flex-direction: row;
     gap: 24px;
-    margin-top: 8px;
 }
 
 .team-item-social {
