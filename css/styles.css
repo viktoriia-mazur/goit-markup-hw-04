@@ -127,11 +127,6 @@ body {
     color: #4d5ae5;
 }
 
-.logo-header:hover, .logo-header:focus {
-    text-decoration: underline;
-    color: #404bbf;
-}
-
 .nav-list {
     display: flex;
     gap: 40px; 
@@ -525,11 +520,6 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-}
-
-.logo-footer:hover, .logo-footer:focus {
-    text-decoration: underline;
-    color: #404bbf;
 }
 
 .footer-text {
